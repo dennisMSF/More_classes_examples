@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stdexcept>
 #include<iomanip>
-#include "comissionemployee.h"
+#include "comissionemployee_2.h"
 using namespace std;
 ComissionEmployee::ComissionEmployee(const string &first, const string &last, const string &ssn, double sales, double rate){
     firstName=first;
