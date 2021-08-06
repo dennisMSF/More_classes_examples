@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stdexcept>
 #include<iomanip>
-#include "employees.h"
+#include "comissionemployee.h"
 using namespace std;
 BasePlusComissionEmployee::BasePlusComissionEmployee(const string &first, const string &last, const string &ssn, double sales, double rate, double salary){
     firstName=first;
